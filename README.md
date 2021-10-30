@@ -67,3 +67,8 @@ ng serve
 ```
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
+## Security
+
+OAuth 2.0
+![OAuth2](https://github.com/ChenErdi/Full-stack-ecommerce/blob/master/img/OAuth2.png)
