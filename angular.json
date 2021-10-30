@@ -27,7 +27,10 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/@fortawesome/fontawesome-free/css/all.min.css",
+              "node_modules/@okta/okta-signin-widget/dist/css/okta-sign-in.min.css"
             ],
             "scripts": []
           },
@@ -60,6 +63,15 @@
               "extractLicenses": false,
               "sourceMap": true,
               "namedChunks": true
+            },
+
+            "oct":{
+              "fileReplacements": [
+                {
+                  "replace": "src/environments/environment.ts",
+                  "with": "src/environments/environment.oct.ts"
+                }
+              ]
             }
           },
           "defaultConfiguration": "production"
@@ -72,6 +84,9 @@
             },
             "development": {
               "browserTarget": "angular-ecommerce:build:development"
+            },
+            "oct": {
+              "browserTarget": "angular-ecommerce:build:oct"
             }
           },
           "defaultConfiguration": "development"
