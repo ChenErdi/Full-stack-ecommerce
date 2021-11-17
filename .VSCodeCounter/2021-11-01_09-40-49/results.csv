@@ -1,0 +1,106 @@
+"filename", "language", "JavaScript", "JSON", "TypeScript", "Django HTML", "CSS", "Properties", "comment", "blank", "total"
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\angular.json", "JSON", 0, 120, 0, 0, 0, 0, 0, 2, 122
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\karma.conf.js", "JavaScript", 37, 0, 0, 0, 0, 0, 6, 2, 45
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\localhost.conf", "Properties", 0, 0, 0, 0, 0, 10, 5, 4, 19
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\package-lock.json", "JSON", 0, 28829, 0, 0, 0, 0, 0, 1, 28830
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\package.json", "JSON", 0, 47, 0, 0, 0, 0, 0, 1, 48
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\app.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\app.component.html", "Django HTML", 0, 0, 0, 39, 0, 0, 0, 10, 49
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\app.component.spec.ts", "TypeScript", 0, 0, 27, 0, 0, 0, 0, 5, 32
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\app.component.ts", "TypeScript", 0, 0, 9, 0, 0, 0, 0, 2, 11
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\app.module.ts", "TypeScript", 0, 0, 76, 0, 0, 0, 1, 11, 88
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\address.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\address.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 1, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\cart-item.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\cart-item.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 6, 22
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\country.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\country.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 1, 6
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\customer.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\customer.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 2, 7
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\order-history.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\order-history.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 1, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\order-item.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\order-item.ts", "TypeScript", 0, 0, 13, 0, 0, 0, 0, 4, 17
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\order.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\order.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 3, 7
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\product-category.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\product-category.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 1, 5
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\product.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\product.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 2, 14
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\purchase.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\purchase.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 3, 15
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\state.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\common\state.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 0, 1, 5
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-details\cart-details.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-details\cart-details.component.html", "Django HTML", 0, 0, 0, 62, 0, 0, 0, 13, 75
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-details\cart-details.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-details\cart-details.component.ts", "TypeScript", 0, 0, 36, 0, 0, 0, 4, 11, 51
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-status\cart-status.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-status\cart-status.component.html", "Django HTML", 0, 0, 0, 8, 0, 0, 0, 0, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-status\cart-status.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\cart-status\cart-status.component.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 3, 8, 34
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\checkout\checkout.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\checkout\checkout.component.html", "Django HTML", 0, 0, 0, 339, 0, 0, 0, 75, 414
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\checkout\checkout.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\checkout\checkout.component.ts", "TypeScript", 0, 0, 207, 0, 0, 0, 28, 69, 304
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login-status\login-status.component.css", "CSS", 0, 0, 0, 0, 45, 0, 13, 6, 64
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login-status\login-status.component.html", "Django HTML", 0, 0, 0, 9, 0, 0, 0, 6, 15
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login-status\login-status.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login-status\login-status.component.ts", "TypeScript", 0, 0, 35, 0, 0, 0, 5, 13, 53
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login\login.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login\login.component.html", "Django HTML", 0, 0, 0, 4, 0, 0, 0, 1, 5
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login\login.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\login\login.component.ts", "TypeScript", 0, 0, 42, 0, 0, 0, 0, 8, 50
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\members-page\members-page.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\members-page\members-page.component.html", "Django HTML", 0, 0, 0, 7, 0, 0, 0, 4, 11
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\members-page\members-page.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\members-page\members-page.component.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 5, 16
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\order-history\order-history.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\order-history\order-history.component.html", "Django HTML", 0, 0, 0, 35, 0, 0, 0, 7, 42
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\order-history\order-history.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\order-history\order-history.component.ts", "TypeScript", 0, 0, 24, 0, 0, 0, 2, 9, 35
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-category-menu\product-category-menu.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-category-menu\product-category-menu.component.html", "Django HTML", 0, 0, 0, 11, 0, 0, 0, 3, 14
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-category-menu\product-category-menu.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-category-menu\product-category-menu.component.ts", "TypeScript", 0, 0, 23, 0, 0, 0, 0, 6, 29
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-details\product-details.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-details\product-details.component.html", "Django HTML", 0, 0, 0, 12, 0, 0, 0, 7, 19
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-details\product-details.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-details\product-details.component.ts", "TypeScript", 0, 0, 36, 0, 0, 0, 0, 11, 47
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-list\product-list-grid.component.html", "Django HTML", 0, 0, 0, 55, 0, 0, 0, 14, 69
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-list\product-list-table.component.html", "Django HTML", 0, 0, 0, 20, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-list\product-list.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-list\product-list.component.html", "Django HTML", 0, 0, 0, 3, 0, 0, 0, 1, 4
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-list\product-list.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\product-list\product-list.component.ts", "TypeScript", 0, 0, 89, 0, 0, 0, 13, 28, 130
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\search\search.component.css", "CSS", 0, 0, 0, 0, 0, 0, 0, 1, 1
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\search\search.component.html", "Django HTML", 0, 0, 0, 9, 0, 0, 0, 3, 12
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\search\search.component.spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 6, 26
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\components\search\search.component.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 5, 21
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\config\my-app-config.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 3, 11
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\auth-interceptor.service.spec.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 5, 17
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\auth-interceptor.service.ts", "TypeScript", 0, 0, 27, 0, 0, 0, 3, 10, 40
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\cart.service.spec.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 5, 17
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\cart.service.ts", "TypeScript", 0, 0, 75, 0, 0, 0, 14, 25, 114
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\checkout.service.spec.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 5, 17
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\checkout.service.ts", "TypeScript", 0, 0, 15, 0, 0, 0, 0, 6, 21
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\e-shop-form.service.spec.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 5, 17
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\e-shop-form.service.ts", "TypeScript", 0, 0, 52, 0, 0, 0, 5, 29, 86
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\order-history.service.spec.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 5, 17
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\order-history.service.ts", "TypeScript", 0, 0, 21, 0, 0, 0, 1, 10, 32
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\product.service.spec.ts", "TypeScript", 0, 0, 12, 0, 0, 0, 0, 5, 17
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\services\product.service.ts", "TypeScript", 0, 0, 68, 0, 0, 0, 4, 25, 97
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\validators\e-shop-validators.spec.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 2, 8
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\app\validators\e-shop-validators.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 3, 6, 20
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\environments\environment.oct.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 11, 3, 18
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\environments\environment.prod.ts", "TypeScript", 0, 0, 3, 0, 0, 0, 0, 1, 4
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\environments\environment.ts", "TypeScript", 0, 0, 4, 0, 0, 0, 11, 3, 18
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\index.html", "Django HTML", 0, 0, 0, 13, 0, 0, 0, 2, 15
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\main.ts", "TypeScript", 0, 0, 9, 0, 0, 0, 0, 4, 13
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\polyfills.ts", "TypeScript", 0, 0, 2, 0, 0, 0, 60, 8, 70
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\styles.css", "CSS", 0, 0, 0, 0, 903, 0, 58, 83, 1044
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\src\test.ts", "TypeScript", 0, 0, 19, 0, 0, 0, 4, 5, 28
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\tsconfig.app.json", "JSON", 0, 14, 0, 0, 0, 0, 1, 1, 16
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\tsconfig.json", "JSON", 0, 31, 0, 0, 0, 0, 1, 1, 33
+"d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\angular-ecommerce\tsconfig.spec.json", "JSON", 0, 17, 0, 0, 0, 0, 1, 1, 19
+"Total", "-", 37, 29058, 1425, 626, 948, 10, 257, 739, 33100

@@ -68,6 +68,20 @@ ng serve
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## Layout
+
+### Login widget
+
+![Login](https://github.com/ChenErdi/Full-stack-ecommerce/blob/master/img/login.PNG)
+
+### Main Layout
+
+![Layout](https://github.com/ChenErdi/Full-stack-ecommerce/blob/master/img/Layout.PNG)
+
+### Checkout
+
+![Checkout](https://github.com/ChenErdi/Full-stack-ecommerce/blob/master/img/checkout.PNG)
+
 ## Security
 
 OAuth 2.0

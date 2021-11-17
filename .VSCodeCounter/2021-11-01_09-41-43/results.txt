@@ -1,0 +1,76 @@
+Date : 2021-11-01 09:41:43
+Directory : d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce
+Total : 29 files,  748 codes, 175 comments, 262 blanks, all 1185 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Java       |         25 |        568 |        111 |        206 |        885 |
+| Batch      |          1 |         96 |         51 |         36 |        183 |
+| XML        |          1 |         65 |          0 |          5 |         70 |
+| Properties |          2 |         19 |         13 |         15 |         47 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                                                                | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                                                                   |         29 |        748 |        175 |        262 |      1,185 |
+| .mvn                                                                                                                                                                |          2 |         78 |         31 |         12 |        121 |
+| .mvn\wrapper                                                                                                                                                        |          2 |         78 |         31 |         12 |        121 |
+| src                                                                                                                                                                 |         25 |        509 |         93 |        209 |        811 |
+| src\main                                                                                                                                                            |         24 |        500 |         93 |        204 |        797 |
+| src\main\java                                                                                                                                                       |         23 |        483 |         80 |        190 |        753 |
+| src\main\java\com                                                                                                                                                   |         23 |        483 |         80 |        190 |        753 |
+| src\main\java\com\luv2code                                                                                                                                          |         23 |        483 |         80 |        190 |        753 |
+| src\main\java\com\luv2code\ecommerce                                                                                                                                |         23 |        483 |         80 |        190 |        753 |
+| src\main\java\com\luv2code\ecommerce\config                                                                                                                         |          3 |         60 |         60 |         19 |        139 |
+| src\main\java\com\luv2code\ecommerce\controller                                                                                                                     |          1 |         18 |          0 |          8 |         26 |
+| src\main\java\com\luv2code\ecommerce\dao                                                                                                                            |          6 |         53 |         10 |         26 |         89 |
+| src\main\java\com\luv2code\ecommerce\dto                                                                                                                            |          2 |         39 |          0 |         15 |         54 |
+| src\main\java\com\luv2code\ecommerce\entity                                                                                                                         |          8 |        257 |          1 |         95 |        353 |
+| src\main\java\com\luv2code\ecommerce\service                                                                                                                        |          2 |         47 |          9 |         22 |         78 |
+| src\main\resources                                                                                                                                                  |          1 |         17 |         13 |         14 |         44 |
+| src\test                                                                                                                                                            |          1 |          9 |          0 |          5 |         14 |
+| src\test\java                                                                                                                                                       |          1 |          9 |          0 |          5 |         14 |
+| src\test\java\com                                                                                                                                                   |          1 |          9 |          0 |          5 |         14 |
+| src\test\java\com\luv2code                                                                                                                                          |          1 |          9 |          0 |          5 |         14 |
+| src\test\java\com\luv2code\ecommerce                                                                                                                                |          1 |          9 |          0 |          5 |         14 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                                                                            | language   | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\.mvn\wrapper\MavenWrapperDownloader.java                                      | Java       |         76 |         31 |         11 |        118 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\.mvn\wrapper\maven-wrapper.properties                                         | Properties |          2 |          0 |          1 |          3 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\mvnw.cmd                                                                      | Batch      |         96 |         51 |         36 |        183 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\pom.xml                                                                       | XML        |         65 |          0 |          5 |         70 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\SpringBootEcommerceApplication.java      | Java       |          9 |          0 |          5 |         14 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\config\MyAppConfig.java                  | Java       |         15 |          4 |          6 |         25 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\config\MyDataRestConfig.java             | Java       |         34 |         39 |         11 |         84 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\config\SecurityConfiguration.java        | Java       |         11 |         17 |          2 |         30 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\controller\CheckoutController.java       | Java       |         18 |          0 |          8 |         26 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\CountryRepository.java               | Java       |          7 |          0 |          4 |         11 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\CustomerRepository.java              | Java       |          6 |          3 |          4 |         13 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\OrderRepository.java                 | Java       |         11 |          7 |          5 |         23 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\ProductCategoryRepository.java       | Java       |          7 |          0 |          3 |         10 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\ProductRepository.java               | Java       |         12 |          0 |          4 |         16 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dao\StateRepository.java                 | Java       |         10 |          0 |          6 |         16 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dto\Purchase.java                        | Java       |         30 |          0 |         11 |         41 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\dto\PurchaseResponse.java                | Java       |          9 |          0 |          4 |         13 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Address.java                      | Java       |         27 |          0 |         11 |         38 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Country.java                      | Java       |         23 |          0 |          9 |         32 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Customer.java                     | Java       |         36 |          0 |         12 |         48 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Order.java                        | Java       |         66 |          0 |         22 |         88 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\OrderItem.java                    | Java       |         29 |          0 |         11 |         40 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\Product.java                      | Java       |         39 |          0 |         15 |         54 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\ProductCategory.java              | Java       |         20 |          1 |          8 |         29 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\entity\State.java                        | Java       |         17 |          0 |          7 |         24 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\service\CheckoutService.java             | Java       |          6 |          0 |          4 |         10 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\java\com\luv2code\ecommerce\service\CheckoutServiceImpl.java         | Java       |         41 |          9 |         18 |         68 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\main\resources\application.properties                                     | Properties |         17 |         13 |         14 |         44 |
+| d:\FullStackProject\ecommerce-project\Project\angular-ecommerce\spring-boot-ecommerce\src\test\java\com\luv2code\ecommerce\SpringBootEcommerceApplicationTests.java | Java       |          9 |          0 |          5 |         14 |
+| Total                                                                                                                                                               |            |        748 |        175 |        262 |      1,185 |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

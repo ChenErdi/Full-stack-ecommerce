@@ -1,5 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
-/* 
+/*
  * ----------------------------
  * Common CSS
  * ----------------------------
@@ -128,14 +128,14 @@ aside.menu-sidebar.d-none.d-lg-block.clr{
     box-shadow:-2px 0 4px #0000003b
 }
 
-/* 
+/*
  * ----------------------------
  * Header Desktop Section
  * ----------------------------
  */
 
 .header-desktop{
-    background:#0da8e4;
+    background:#0377b9;
     -webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
     -moz-box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
     box-shadow:0 2px 5px 0 rgba(0,0,0,.1);
@@ -309,7 +309,7 @@ input.au-input.au-input-xl{
 }
 
 
-/* 
+/*
  * ----------------------------
  * Left Menu Bar
  * ----------------------------
@@ -328,7 +328,7 @@ input.au-input.au-input-xl{
 .menu-sidebar .logo{
     background:#fff;
     height:75px;
-    padding:0 35px;
+    padding:0 75px;
     display:-webkit-box;
     display:-webkit-flex;
     display:-moz-box;
@@ -383,7 +383,7 @@ input.au-input.au-input-xl{
     color:#0da8e4
 }
 
-/* 
+/*
  * ----------------------------
  * Header Mobile Section
  * ----------------------------
@@ -519,7 +519,7 @@ input.au-input.au-input-xl{
     padding:10% 35% 10% 5%
 }
 
-/* 
+/*
  * ----------------------------
  * Products List
  * ----------------------------
@@ -561,7 +561,7 @@ input.au-input.au-input-xl{
     color:#585858
 }
 
-/* 
+/*
  * ----------------------------
  * Shopping Cart Checkout
  * ----------------------------
@@ -675,7 +675,7 @@ select{
     color:#828482
 }
 
-/* 
+/*
  * ----------------------------
  * Shopping Cart Details
  * ----------------------------
@@ -710,7 +710,7 @@ table.table.table-bordered th{
     margin-left:5px
 }
 
-/* 
+/*
  * ----------------------------
  * Product Details
  * ----------------------------
@@ -730,7 +730,7 @@ table.table.table-bordered th{
 }
 /**/
 
-/* 
+/*
  * ----------------------------
  * Buttons
  * ----------------------------
@@ -760,7 +760,7 @@ a.primary-btn:hover{
   font-weight: bold;
 }
 
-/* 
+/*
  * ----------------------------
  * Footer section
  * ----------------------------
@@ -785,7 +785,7 @@ footer ul li{
     padding:10px 20px
 }
 
-/* 
+/*
  * ----------------------------
  * Media Queries
  * ----------------------------
